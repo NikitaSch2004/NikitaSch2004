@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Nikita Schimbatoru 👋 
 
+<div align="center">
+/ |      / |/ |                    |  __ \
+
+| (   ___ | || | ___  _ __ ___   ___ | |  | | _____   __
+__ \ / _ |  |  / _ | '/ _ \ / _ | |  | |/ _ \ \ / /
+_) | () | | | || () | | |  __/| () | || |  /\ V /
+|_/ _/|| || _/|_|  _| _/|_/ _| _/
 <!--
 **NikitaSch2004/NikitaSch2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
