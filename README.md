@@ -1,23 +1,54 @@
 # Hi there, I'm Nikita Schimbatoru 👋 
 
 <div align="center">
-/ |      / |/ |                    |  __ \
 
-| (   ___ | || | ___  _ __ ___   ___ | |  | | _____   __
-__ \ / _ |  |  / _ | '/ _ \ / _ | |  | |/ _ \ \ / /
-_) | () | | | || () | | |  __/| () | || |  /\ V /
-|_/ _/|| || _/|_|  _| _/|_/ _| _/
-<!--
-**NikitaSch2004/NikitaSch2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-End & Full-Stack Developer | IT Student @ Transilvania University of Brașov**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-schimbatoru-68a87418a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitaschimbatoru@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 **Education:** 3rd-year Information Technology Student at Transilvania University of Brașov.
+* 💼 **Experience:** Ex-Back-End Developer Intern @ Proton Energy Solutions & Freelance AI Trainer @ DataAnnotation.
+* ⚙️ **Focus:** Building scalable REST APIs, database design, and integrating modern AI capabilities (Gemini API).
+* 🎯 **Goal:** Looking for a Software Engineering / Full-Stack / Back-End Internship[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `JavaScript`, `Java`, `C/C++`, `SQL`, `HTML/CSS`[cite: 1] |
+| **Frameworks** | `Django`, `Django REST Framework`, `React Native`, `React.js`, `Node.js`[cite: 1] |
+| **Databases** | `PostgreSQL`, `SQLite`, `MySQL`[cite: 1] |
+| **Tools & Cloud** | `Git`, `GitHub`, `Linux`, `Postman`, `REST APIs`[cite: 1] |
+| **AI Integration** | `Gemini API`, `OpenAI API`, `NLP`[cite: 1] |
+
+---
+
+### 🚀 Featured Projects
+
+#### 📄 [CodeStorm PDF Automation Tool](https://github.com/NikitaSch2004) *(Top 5 - CodeStorm Competition)*
+> A Python-based web application enabling educators to edit, parse, and automate academic document generation using the **Gemini API**[cite: 1].  
+> **Tech:** Python, Gemini API, PDF Manipulation, REST APIs[cite: 1]
+
+#### 📱 [DayFlow – Mobile Productivity App](https://github.com/NikitaSch2004) *(Kronsoft Hackathon MVP)*
+> A full-stack mobile productivity application featuring daily schedule organization, nutrition tracking, Google Maps real-time travel calculations, and Gemini AI personalized suggestions[cite: 1].  
+> **Tech:** Python, Django REST, React Native, PostgreSQL, Google Maps API[cite: 1]
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaSch2004&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaSch2004&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
