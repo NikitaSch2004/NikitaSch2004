@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Back-End & Full-Stack Developer | IT Student @ Transilvania University of Brașov**
+**IT Student @ Transilvania University of Brașov**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-schimbatoru-68a87418a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitaschimbatoru@gmail.com)
