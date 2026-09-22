@@ -4,9 +4,7 @@
 📍 Brașov, Romania  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NikitaShimbatoru-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitashimbatoru)
-
 [![Email](https://img.shields.io/badge/Email-nikitaschimbatoru%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikitaschimbatoru@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-NikitaSch2004-181717?style=flat&logo=github&logoColor=white)](https://github.com/NikitaSch2004)
 
 ---
@@ -36,34 +34,28 @@ Final-year Information Technology student at **Transilvania University of Brașo
 
 ## 🚀 Featured Projects
 
-### 🌐 [social-network-app](https://github.com/NikitaSch2004/social-network-app)
+### [social-network-app](https://github.com/NikitaSch2004/social-network-app)
 > **Stack:** React 18, Vite, Django REST Framework, SQLite, Token Auth  
 > Decoupled full-stack microblogging platform featuring secure token authentication, live public and following feeds, threaded replies, post liking, and user profiles.
 
-### 🏎️ [opengl-3d-car](https://github.com/NikitaSch2004/opengl-3d-car)
+### [opengl-3d-car](https://github.com/NikitaSch2004/opengl-3d-car)
 > **Stack:** C++17, Modern OpenGL (Core Profile), GLSL Shaders, GLFW, GLEW, Assimp, GLM  
 > Real-time 3D rendering engine featuring Assimp 3D model loading (`car.obj`), custom GLSL shaders (Phong specular lighting, procedural sky with world-space animated clouds, procedural road markings), and an orbit mouse camera.
 
-### 🕹️ [cpp-tetris-game](https://github.com/NikitaSch2004/cpp-tetris-game)
+### [cpp-tetris-game](https://github.com/NikitaSch2004/cpp-tetris-game)
 > **Stack:** C++17, OpenGL, GLUT, STB Image, CMake  
 > Cross-platform Tetris arcade game written in C++17 with real-time matrix collision detection, ghost piece projection, line clearing mechanics, progressive difficulty leveling, and texture mapping.
 
-### ☕ [Impresso](https://github.com/NikitaSch2004/Impresso)
+### [Impresso](https://github.com/NikitaSch2004/Impresso)
 > **Stack:** Python 3.11, Django 5.0, HTML5 / CSS3, JavaScript  
 > Commercial web platform developed for Impresso Coffee & Bar in Brașov. Features online table reservations, an interactive gamified "Wheel of Fortune" (Roata Norocului) promotion with receipt verification, and administrative staff dashboards.
 
-### 📱 [DayFlow — Habit & Routine Tracker](https://github.com/sredeo/Proiect-KRONSOFT-DayFlow)
+### [DayFlow — Habit & Routine Tracker](https://github.com/sredeo/Proiect-KRONSOFT-DayFlow)
 > **Stack:** React Native, Django REST, PostgreSQL, Google Maps API, Gemini AI  
 > **Kronsoft Hackathon MVP:** Full-stack mobile productivity application built with an 8-person team. Features daily schedule organization, nutrition tracking, Google Maps real-time travel calculations, and Gemini AI personalized workout/diet suggestions.
 
-### 📄 [CodeStorm PDF Automation Tool](https://github.com/AlexMoto69/CodeStormProject)
+### [CodeStorm PDF Automation Tool](https://github.com/AlexMoto69/CodeStormProject)
 > **Stack:** Python, Google Gemini API, PDF Manipulation, REST APIs  
 > **Top 5 — CodeStorm Competition:** Academic document generation system that saves faculty manual paperwork by utilizing Gemini AI for structured data extraction and automated syllabus/schedule generation.
 
 ---
-
-## 📫 Get in Touch
-
-- **LinkedIn:** [linkedin.com/in/nikitashimbatoru](https://www.linkedin.com/in/nikitashimbatoru)
-- **Email:** [nikitaschimbatoru@gmail.com](mailto:nikitaschimbatoru@gmail.com)
-- **GitHub:** [github.com/NikitaSch2004](https://github.com/NikitaSch2004)
