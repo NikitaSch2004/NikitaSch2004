@@ -3,7 +3,7 @@
 **Final-Year Information Technology Student | Backend & Full-Stack Developer**  
 📍 Brașov, Romania  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NikitaShimbatoru-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitashimbatoru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NikitaShimbatoru-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-schimbatoru/)
 [![Email](https://img.shields.io/badge/Email-nikitaschimbatoru%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikitaschimbatoru@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NikitaSch2004-181717?style=flat&logo=github&logoColor=white)](https://github.com/NikitaSch2004)
 
