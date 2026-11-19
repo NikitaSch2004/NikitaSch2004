@@ -39,7 +39,7 @@ Final-year Information Technology student at **Transilvania University of Brașo
 | **Pago AI Hackathon**, Brașov (Nov. 2026) | [AI Pago — Bill Audit](https://github.com/Alickrool/PagoIAmTeapot) | Working app + live demo | Whole mobile app (React Native / Expo) |
 | **Kronsoft Hackathon** (Apr.–May 2026) | [DayFlow — Habit & Routine Tracker](https://github.com/sredeo/Proiect-KRONSOFT-DayFlow) | MVP delivered | Nutrition module, backend → mobile |
 | **CodeStorm** (Apr. 2026) | [CodeStorm PDF Automation Tool](https://github.com/AlexMotoasca/CodeStormProject) | 🏅 **Top 5** | PDF parsing + Gemini query layer |
-| **Proton Energy Solutions** internship (2025) | Renewable Energy Monitoring *(private repo)* | Internship project | Backend modules (Django REST) |
+| **Proton Energy Solutions** internship (2025) | [Renewable Energy Monitoring](https://github.com/NikitaSch2004/RenewableMonitoring) | Internship project | Backend modules (Django REST) |
 
 ### [AI Pago — Bill Audit](https://github.com/Alickrool/PagoIAmTeapot)
 > **Stack:** React Native (Expo, TypeScript), Django REST Framework, Google Gemini  
@@ -59,11 +59,11 @@ Final-year Information Technology student at **Transilvania University of Brașo
 > **My part:** wrote the PDF parsing (pypdf) and the Gemini query layer that analyses course syllabi and cross-checks them against the curriculum plan.  
 > **Team:** [@AlexMotoasca](https://github.com/AlexMotoasca), [@iSebi127](https://github.com/iSebi127) and me.
 
-### Renewable Energy Monitoring Platform *(private repository)*
+### [Renewable Energy Monitoring Platform](https://github.com/NikitaSch2004/RenewableMonitoring)
 > **Stack:** Django REST Framework, JWT auth, React (JSX)  
 > **Erasmus summer practice @ Proton Energy Solutions (2025):** web platform for monitoring renewable-energy facilities, with maps, forecast data, planned maintenance, file management and an admin panel.  
 > **My part:** backend for planned maintenance, the files section, the admin-panel API and the `/me/` user endpoint.  
-> **Team:** [@Alickrool](https://github.com/Alickrool), [@Afonia27](https://github.com/Afonia27) and me. The code is private; happy to walk through it in an interview.
+> **Team:** [@Alickrool](https://github.com/Alickrool), [@Afonia27](https://github.com/Afonia27) and me. Public copy of the team's private repo, with full commit history (database and credentials removed).
 
 ---
 
