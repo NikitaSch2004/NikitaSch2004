@@ -36,7 +36,7 @@ Final-year Information Technology student at **Transilvania University of Brașo
 
 | Event | Project | Result | My role |
 |---|---|---|---|
-| **Pago AI Hackathon**, Brașov (Nov. 2026) | [AI Pago — Bill Audit](https://github.com/Alickrool/PagoIAmTeapot) | Working app + live demo | Whole mobile app (React Native / Expo) |
+| **Pago AI Hackathon**, Brașov (Nov. 2026) | [AI Pago — Bill Audit](https://github.com/Alickrool/PagoIAmTeapot) | 🏅 **Top 3**  | Whole mobile app (React Native / Expo) |
 | **Kronsoft Hackathon** (Apr.–May 2026) | [DayFlow — Habit & Routine Tracker](https://github.com/sredeo/Proiect-KRONSOFT-DayFlow) | MVP delivered | Nutrition module, backend → mobile |
 | **CodeStorm** (Apr. 2026) | [CodeStorm PDF Automation Tool](https://github.com/AlexMotoasca/CodeStormProject) | 🏅 **Top 5** | PDF parsing + Gemini query layer |
 | **Proton Energy Solutions** internship (2025) | [Renewable Energy Monitoring](https://github.com/NikitaSch2004/RenewableMonitoring) | Internship project | Backend modules (Django REST) |
